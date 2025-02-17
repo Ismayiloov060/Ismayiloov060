@@ -1,7 +1,6 @@
 <h1>Hi I'm Ali👋</h1>
 
-![Homelander I'm Better](https://github.com/user-attachments/assets/82d8fbdd-bccf-40b4-b3ba-863611207a59) height="200rm"
-
+<img src="https://github.com/user-attachments/assets/82d8fbdd-bccf-40b4-b3ba-863611207a59" alt="Homelander" height="500">
 
 
 # 💻 Tech Stack:

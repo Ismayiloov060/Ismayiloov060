@@ -1,6 +1,6 @@
 <h1>Hi I'm Ali👋</h1>
 
-<img src="https://github.com/user-attachments/assets/82d8fbdd-bccf-40b4-b3ba-863611207a59" alt="Homelander" height="400" weight="500">
+<img src="https://github.com/user-attachments/assets/82d8fbdd-bccf-40b4-b3ba-863611207a59" alt="Homelander" height="400" weight="600">
 
 
 # 💻 Tech Stack:
